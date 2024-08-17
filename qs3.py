@@ -1,0 +1,1 @@
+# Same logic to be used as qs 2
