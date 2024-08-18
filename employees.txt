@@ -1,0 +1,3 @@
+Name: SD, Age: 30, Salary: 50000
+Name: Rick, Age: 25, Salary: 60000
+Name: Soumyadeep, Age: 35, Salary: 70000
