@@ -3,4 +3,4 @@
 - Execute the codes in each cell to get the output.
 <h2>Author -> Soumyadeep Dey</h2>
 <br>
-<p>Milestomne exam answers of PW Skills April Batch'24</p>
+<p>Milestomne exam answers of PW Skills Data Science ML & Gen AI April Batch'24</p>
